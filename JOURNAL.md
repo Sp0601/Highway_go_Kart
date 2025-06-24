@@ -1,7 +1,7 @@
 ---
-title: "Highway_go_Kart"
+title: "Ultimate Radio"
 author: "Sp06"
-description: "A go kart made for the ysws program 'Highway to Undercity'!"
+description: "A radio made for the ysws program 'Highway to Undercity'!"
 created_at: "2025-06-24"
 ---
 
@@ -13,3 +13,12 @@ created_at: "2025-06-24"
 
 **Total time spent: 2h**
 
+# June 24th: Journal Template !
+
+Changed the premise of this project from making a go kart to making the "radio"
+
+Really, I want a computer in that port
+
+[insert pictures of what you're working on!]
+
+**Total time spent: 2h**
